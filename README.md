@@ -1,8 +1,8 @@
 @graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
 
-⌨️ Creator of http://speedtyper.app
-
 👨‍💻 Lead Developer for Alpaca
+
+⌨️ Creator of http://speedtyper.app
 
 ⚙️ My favorite tech & frameworks: 
 - React 
