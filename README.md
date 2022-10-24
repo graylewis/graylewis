@@ -1,4 +1,5 @@
 Business inquiries: http://linkedin.com/in/gray-lewis
+
 @graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
 
 👨‍💻 Lead Developer for Alpaca
