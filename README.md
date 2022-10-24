@@ -1,3 +1,4 @@
+Business inquiries: http://linkedin.com/in/gray-lewis
 @graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
 
 👨‍💻 Lead Developer for Alpaca
@@ -18,7 +19,7 @@
 - RxJS
 - Mongoose
 
-http://linkedin.com/in/gray-lewis
+
 <!---
 graylewis/graylewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
