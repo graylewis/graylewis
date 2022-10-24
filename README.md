@@ -1,10 +1,9 @@
-Business inquiries: http://linkedin.com/in/gray-lewis
+*Business inquiries: http://linkedin.com/in/gray-lewis*
 
-@graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
+### @graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
 
-👨‍💻 Lead Developer for Alpaca
-
-⌨️ Creator of http://speedtyper.app
+- 👨‍💻 Lead Developer for Alpaca
+- ⌨️ Creator of http://speedtyper.app
 
 ⚙️ My favorite tech & frameworks: 
 - React 
