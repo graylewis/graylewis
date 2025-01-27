@@ -1,18 +1,17 @@
 *Business inquiries: http://linkedin.com/in/gray-lewis*
 
 ### @graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
-👨‍💻 Lead Developer for Alpaca
+👨‍💻 Lead Developer for TANDEM
 
 ⚙️ My favorite tech & frameworks: 
 - React 
 - Node.JS
 - MongoDB
 - Redis
-- SCSS
-- Angular
+- NextJS
 
 ⚙️ My favorite JS libraries: 
-- Formik
+- React Query
 - D3.js
 - RxJS
 - Mongoose
