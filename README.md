@@ -1,20 +1,19 @@
 *Business inquiries: http://linkedin.com/in/gray-lewis*
 
-### @graylewis - Fullstack Software Engineer, Software Architect, and Code Fanatic
+### @graylewis - Fullstack Software Engineer, Software Architect
 👨‍💻 Lead Developer for TANDEM
 
 ⚙️ My favorite tech & frameworks: 
 - React 
-- Node.JS
+- NextJS
 - MongoDB
 - Redis
-- NextJS
 
 ⚙️ My favorite JS libraries: 
 - React Query
 - D3.js
 - RxJS
-- Mongoose
+- React Table
 
 
 <!---
